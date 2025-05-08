@@ -1,0 +1,602 @@
+{
+  "Account": {
+    "Snippet": {
+      "Title": "GOD MODE NOTES",
+      "Description": "🔥 SUBSCRIBE AND GET INTO GODMODE 🔥",
+      "PublishedAt": "2025-01-18T13:56:56.51772+02:00",
+      "CustomUrl": "@godmodenotes",
+      "ThumbnailUrl": "https://yt3.ggpht.com/XP5pXN0lDsOKwY-gjRgtZ9f8_Q9qb5FadfDeeupRpb2gy0ehKjTShg8E-zUK-Ly9SUkzc9G3rJg=s88-c-k-c0x00ffffff-no-rj",
+      "Localized": {
+        "Title": "GOD MODE NOTES",
+        "Description": "🔥 SUBSCRIBE AND GET INTO GODMODE 🔥"
+      },
+      "Country": null
+    },
+    "Statistics": {
+      "ViewCount": 97,
+      "SubscriberCount": 3,
+      "HiddenSubscriberCount": false,
+      "VideoCount": 13
+    },
+    "ContentDetails": null,
+    "BrandingSettings": {
+      "ChannelKeywords": "David Goggins Motivation Discipline StayHard NoExcuses SelfImprovement GrindMode MindsetMatters MentalStrength PushYourLimits Relentless JustDoIt",
+      "FeaturedChannels": [],
+      "BannerImageUrl": "https://yt3.googleusercontent.com/NFCIiW8G9w4GOIPgU3fZ1he4DrEmVoX1NnzOXdSuaku_rFbIXar4YCmtg-XxD2LBh1dLtJv-yQ"
+    }
+  },
+  "Posts": [
+    {
+      "Snippet": {
+        "Title": "Dream big and dare to fail",
+        "Description": "Dream big and dare to fail.",
+        "PublishedAt": "2025-03-15T02:02:01+02:00",
+        "Tags": [
+          "Discipline",
+          "Motivation",
+          "StayHard",
+          "NoExcuses",
+          "SelfImprovement",
+          "GrindMode",
+          "MindsetMatters",
+          "MentalStrength",
+          "PushYourLimits",
+          "Relentless",
+          "JustDoIt"
+        ],
+        "CategoryId": "22",
+        "ThumbnailUrl": "https://i.ytimg.com/vi/Z9RD6gqjqRY/default.jpg",
+        "Localized": {
+          "Title": "Dream big and dare to fail",
+          "Description": "Dream big and dare to fail."
+        }
+      },
+      "ContentDetails": {
+        "Duration": "PT5S",
+        "Dimension": "2d",
+        "Definition": "hd",
+        "Caption": false,
+        "LicensedContent": false,
+        "Projection": "rectangular",
+        "RegionRestriction": null
+      },
+      "Statistics": {
+        "ViewCount": 1,
+        "LikeCount": 0,
+        "DislikeCount": 0,
+        "CommentCount": 0
+      },
+      "Player": {
+        "EmbedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/Z9RD6gqjqRY\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+      }
+    },
+    {
+      "Snippet": {
+        "Title": "Everything you’ve ever wanted is on the other side of...",
+        "Description": "Everything you’ve ever wanted is on the other side of fear.",
+        "PublishedAt": "2025-03-14T02:01:52+02:00",
+        "Tags": [
+          "Discipline",
+          "Motivation",
+          "StayHard",
+          "NoExcuses",
+          "SelfImprovement",
+          "GrindMode",
+          "MindsetMatters",
+          "MentalStrength",
+          "PushYourLimits",
+          "Relentless",
+          "JustDoIt"
+        ],
+        "CategoryId": "22",
+        "ThumbnailUrl": "https://i.ytimg.com/vi/ZvPEd28Rark/default.jpg",
+        "Localized": {
+          "Title": "Everything you’ve ever wanted is on the other side of...",
+          "Description": "Everything you’ve ever wanted is on the other side of fear."
+        }
+      },
+      "ContentDetails": {
+        "Duration": "PT9S",
+        "Dimension": "2d",
+        "Definition": "hd",
+        "Caption": false,
+        "LicensedContent": false,
+        "Projection": "rectangular",
+        "RegionRestriction": null
+      },
+      "Statistics": {
+        "ViewCount": 31,
+        "LikeCount": 0,
+        "DislikeCount": 0,
+        "CommentCount": 0
+      },
+      "Player": {
+        "EmbedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/ZvPEd28Rark\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+      }
+    },
+    {
+      "Snippet": {
+        "Title": "It does not matter how slowly you go as long...",
+        "Description": "It does not matter how slowly you go as long as you do not stop.",
+        "PublishedAt": "2025-03-13T02:02:38+02:00",
+        "Tags": [
+          "Discipline",
+          "Motivation",
+          "StayHard",
+          "NoExcuses",
+          "SelfImprovement",
+          "GrindMode",
+          "MindsetMatters",
+          "MentalStrength",
+          "PushYourLimits",
+          "Relentless",
+          "JustDoIt"
+        ],
+        "CategoryId": "22",
+        "ThumbnailUrl": "https://i.ytimg.com/vi/sWWywzSjwnA/default.jpg",
+        "Localized": {
+          "Title": "It does not matter how slowly you go as long...",
+          "Description": "It does not matter how slowly you go as long as you do not stop."
+        }
+      },
+      "ContentDetails": {
+        "Duration": "PT9S",
+        "Dimension": "2d",
+        "Definition": "hd",
+        "Caption": false,
+        "LicensedContent": false,
+        "Projection": "rectangular",
+        "RegionRestriction": null
+      },
+      "Statistics": {
+        "ViewCount": 19,
+        "LikeCount": 1,
+        "DislikeCount": 0,
+        "CommentCount": 0
+      },
+      "Player": {
+        "EmbedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/sWWywzSjwnA\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+      }
+    },
+    {
+      "Snippet": {
+        "Title": "The best way to predict your future is to create...",
+        "Description": "The best way to predict your future is to create it.",
+        "PublishedAt": "2025-03-12T13:39:15+02:00",
+        "Tags": [
+          "Discipline",
+          "Motivation",
+          "StayHard",
+          "NoExcuses",
+          "SelfImprovement",
+          "GrindMode",
+          "MindsetMatters",
+          "MentalStrength",
+          "PushYourLimits",
+          "Relentless",
+          "JustDoIt"
+        ],
+        "CategoryId": "22",
+        "ThumbnailUrl": "https://i.ytimg.com/vi/Yr2XqCaGZo0/default.jpg",
+        "Localized": {
+          "Title": "The best way to predict your future is to create...",
+          "Description": "The best way to predict your future is to create it."
+        }
+      },
+      "ContentDetails": {
+        "Duration": "PT8S",
+        "Dimension": "2d",
+        "Definition": "hd",
+        "Caption": false,
+        "LicensedContent": false,
+        "Projection": "rectangular",
+        "RegionRestriction": null
+      },
+      "Statistics": {
+        "ViewCount": 18,
+        "LikeCount": 0,
+        "DislikeCount": 0,
+        "CommentCount": 0
+      },
+      "Player": {
+        "EmbedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/Yr2XqCaGZo0\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+      }
+    },
+    {
+      "Snippet": {
+        "Title": "Your time is limited",
+        "Description": "Your time is limited, so don't waste it living someone else's life.",
+        "PublishedAt": "2025-03-12T12:43:48+02:00",
+        "Tags": [
+          "Discipline",
+          "Motivation",
+          "StayHard",
+          "NoExcuses",
+          "SelfImprovement",
+          "GrindMode",
+          "MindsetMatters",
+          "MentalStrength",
+          "PushYourLimits",
+          "Relentless",
+          "JustDoIt"
+        ],
+        "CategoryId": "22",
+        "ThumbnailUrl": "https://i.ytimg.com/vi/nmedzFT3gK4/default.jpg",
+        "Localized": {
+          "Title": "Your time is limited",
+          "Description": "Your time is limited, so don't waste it living someone else's life."
+        }
+      },
+      "ContentDetails": {
+        "Duration": "PT10S",
+        "Dimension": "2d",
+        "Definition": "hd",
+        "Caption": false,
+        "LicensedContent": false,
+        "Projection": "rectangular",
+        "RegionRestriction": null
+      },
+      "Statistics": {
+        "ViewCount": 0,
+        "LikeCount": 0,
+        "DislikeCount": 0,
+        "CommentCount": 0
+      },
+      "Player": {
+        "EmbedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/nmedzFT3gK4\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+      }
+    },
+    {
+      "Snippet": {
+        "Title": "Your time is limited",
+        "Description": "Your time is limited, so don't waste it living someone else's life.",
+        "PublishedAt": "2025-03-12T12:39:27+02:00",
+        "Tags": [
+          "Discipline",
+          "Motivation",
+          "StayHard",
+          "NoExcuses",
+          "SelfImprovement",
+          "GrindMode",
+          "MindsetMatters",
+          "MentalStrength",
+          "PushYourLimits",
+          "Relentless",
+          "JustDoIt"
+        ],
+        "CategoryId": "22",
+        "ThumbnailUrl": "https://i.ytimg.com/vi/KwNi_4SDRyQ/default.jpg",
+        "Localized": {
+          "Title": "Your time is limited",
+          "Description": "Your time is limited, so don't waste it living someone else's life."
+        }
+      },
+      "ContentDetails": {
+        "Duration": "PT10S",
+        "Dimension": "2d",
+        "Definition": "hd",
+        "Caption": false,
+        "LicensedContent": false,
+        "Projection": "rectangular",
+        "RegionRestriction": null
+      },
+      "Statistics": {
+        "ViewCount": 11,
+        "LikeCount": 1,
+        "DislikeCount": 0,
+        "CommentCount": 0
+      },
+      "Player": {
+        "EmbedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/KwNi_4SDRyQ\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+      }
+    },
+    {
+      "Snippet": {
+        "Title": "is it not strange that sheep’s guts should hale souls...",
+        "Description": "is it not strange that sheep’s guts\nshould hale souls out of men’s bodies\nthe price of freedom is eternal vigilance\nwe must dare to be great",
+        "PublishedAt": "2025-03-05T02:01:51+02:00",
+        "Tags": [
+          "Discipline",
+          "Motivation",
+          "StayHard",
+          "NoExcuses",
+          "SelfImprovement",
+          "GrindMode",
+          "MindsetMatters",
+          "MentalStrength",
+          "PushYourLimits",
+          "Relentless",
+          "JustDoIt"
+        ],
+        "CategoryId": "22",
+        "ThumbnailUrl": "https://i.ytimg.com/vi/vuFTWVlAmYE/default.jpg",
+        "Localized": {
+          "Title": "is it not strange that sheep’s guts should hale souls...",
+          "Description": "is it not strange that sheep’s guts\nshould hale souls out of men’s bodies\nthe price of freedom is eternal vigilance\nwe must dare to be great"
+        }
+      },
+      "ContentDetails": {
+        "Duration": "PT18S",
+        "Dimension": "2d",
+        "Definition": "hd",
+        "Caption": false,
+        "LicensedContent": false,
+        "Projection": "rectangular",
+        "RegionRestriction": null
+      },
+      "Statistics": {
+        "ViewCount": 3,
+        "LikeCount": 0,
+        "DislikeCount": 0,
+        "CommentCount": 0
+      },
+      "Player": {
+        "EmbedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/vuFTWVlAmYE\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+      }
+    },
+    {
+      "Snippet": {
+        "Title": "try not to become a man of success but rather...",
+        "Description": "try not to become a man of success\nbut rather try to become a man of value\nhe who dares to waste one hour\nof time has not discovered the value of life",
+        "PublishedAt": "2025-03-03T02:03:22+02:00",
+        "Tags": [
+          "Discipline",
+          "Motivation",
+          "StayHard",
+          "NoExcuses",
+          "SelfImprovement",
+          "GrindMode",
+          "MindsetMatters",
+          "MentalStrength",
+          "PushYourLimits",
+          "Relentless",
+          "JustDoIt"
+        ],
+        "CategoryId": "22",
+        "ThumbnailUrl": "https://i.ytimg.com/vi/WSG0mnd-OqQ/default.jpg",
+        "Localized": {
+          "Title": "try not to become a man of success but rather...",
+          "Description": "try not to become a man of success\nbut rather try to become a man of value\nhe who dares to waste one hour\nof time has not discovered the value of life"
+        }
+      },
+      "ContentDetails": {
+        "Duration": "PT19S",
+        "Dimension": "2d",
+        "Definition": "hd",
+        "Caption": false,
+        "LicensedContent": false,
+        "Projection": "rectangular",
+        "RegionRestriction": null
+      },
+      "Statistics": {
+        "ViewCount": 2,
+        "LikeCount": 0,
+        "DislikeCount": 0,
+        "CommentCount": 0
+      },
+      "Player": {
+        "EmbedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/WSG0mnd-OqQ\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+      }
+    },
+    {
+      "Snippet": {
+        "Title": "let us endeavor so to live that when we come...",
+        "Description": "let us endeavor so to live that\nwhen we come to die even the undertaker\nwill be sorry\nmany lack the originality to lack originality",
+        "PublishedAt": "2025-03-01T22:03:40+02:00",
+        "Tags": [
+          "Discipline",
+          "Motivation",
+          "StayHard",
+          "NoExcuses",
+          "SelfImprovement",
+          "GrindMode",
+          "MindsetMatters",
+          "MentalStrength",
+          "PushYourLimits",
+          "Relentless",
+          "JustDoIt"
+        ],
+        "CategoryId": "22",
+        "ThumbnailUrl": "https://i.ytimg.com/vi/ExIteG2aO2Q/default.jpg",
+        "Localized": {
+          "Title": "let us endeavor so to live that when we come...",
+          "Description": "let us endeavor so to live that\nwhen we come to die even the undertaker\nwill be sorry\nmany lack the originality to lack originality"
+        }
+      },
+      "ContentDetails": {
+        "Duration": "PT17S",
+        "Dimension": "2d",
+        "Definition": "hd",
+        "Caption": false,
+        "LicensedContent": false,
+        "Projection": "rectangular",
+        "RegionRestriction": null
+      },
+      "Statistics": {
+        "ViewCount": 5,
+        "LikeCount": 0,
+        "DislikeCount": 0,
+        "CommentCount": 0
+      },
+      "Player": {
+        "EmbedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/ExIteG2aO2Q\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+      }
+    },
+    {
+      "Snippet": {
+        "Title": "cowards die many times before their deaths the valiant never...",
+        "Description": "cowards die many times before their deaths\nthe valiant never taste of death but once\nof all the wonders that i yet have heard\nit seems to me most strange that men should fear",
+        "PublishedAt": "2025-02-28T22:03:28+02:00",
+        "Tags": [
+          "Discipline",
+          "Motivation",
+          "StayHard",
+          "NoExcuses",
+          "SelfImprovement",
+          "GrindMode",
+          "MindsetMatters",
+          "MentalStrength",
+          "PushYourLimits",
+          "Relentless",
+          "JustDoIt"
+        ],
+        "CategoryId": "22",
+        "ThumbnailUrl": "https://i.ytimg.com/vi/EJ_g85y8Bc0/default.jpg",
+        "Localized": {
+          "Title": "cowards die many times before their deaths the valiant never...",
+          "Description": "cowards die many times before their deaths\nthe valiant never taste of death but once\nof all the wonders that i yet have heard\nit seems to me most strange that men should fear"
+        }
+      },
+      "ContentDetails": {
+        "Duration": "PT22S",
+        "Dimension": "2d",
+        "Definition": "hd",
+        "Caption": false,
+        "LicensedContent": false,
+        "Projection": "rectangular",
+        "RegionRestriction": null
+      },
+      "Statistics": {
+        "ViewCount": 2,
+        "LikeCount": 0,
+        "DislikeCount": 0,
+        "CommentCount": 0
+      },
+      "Player": {
+        "EmbedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/EJ_g85y8Bc0\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+      }
+    },
+    {
+      "Snippet": {
+        "Title": "our lives begin to end the day we become silent...",
+        "Description": "our lives begin to end the day\nwe become silent about things that matter\nfreedom is never voluntarily given\nby the oppressor it must be demanded",
+        "PublishedAt": "2025-02-27T22:03:50+02:00",
+        "Tags": [
+          "Discipline",
+          "Motivation",
+          "StayHard",
+          "NoExcuses",
+          "SelfImprovement",
+          "GrindMode",
+          "MindsetMatters",
+          "MentalStrength",
+          "PushYourLimits",
+          "Relentless",
+          "JustDoIt"
+        ],
+        "CategoryId": "22",
+        "ThumbnailUrl": "https://i.ytimg.com/vi/E5vZEOK8v-k/default.jpg",
+        "Localized": {
+          "Title": "our lives begin to end the day we become silent...",
+          "Description": "our lives begin to end the day\nwe become silent about things that matter\nfreedom is never voluntarily given\nby the oppressor it must be demanded"
+        }
+      },
+      "ContentDetails": {
+        "Duration": "PT18S",
+        "Dimension": "2d",
+        "Definition": "hd",
+        "Caption": false,
+        "LicensedContent": false,
+        "Projection": "rectangular",
+        "RegionRestriction": null
+      },
+      "Statistics": {
+        "ViewCount": 0,
+        "LikeCount": 0,
+        "DislikeCount": 0,
+        "CommentCount": 0
+      },
+      "Player": {
+        "EmbedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/E5vZEOK8v-k\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+      }
+    },
+    {
+      "Snippet": {
+        "Title": "few are those who see with their own eyes and...",
+        "Description": "few are those who see with their own eyes\nand feel with their own hearts\nmost men adopt a new opinion\nas they would a new coat",
+        "PublishedAt": "2025-02-26T22:03:36+02:00",
+        "Tags": [
+          "Discipline",
+          "Motivation",
+          "StayHard",
+          "NoExcuses",
+          "SelfImprovement",
+          "GrindMode",
+          "MindsetMatters",
+          "MentalStrength",
+          "PushYourLimits",
+          "Relentless",
+          "JustDoIt"
+        ],
+        "CategoryId": "22",
+        "ThumbnailUrl": "https://i.ytimg.com/vi/18ArX11zP0U/default.jpg",
+        "Localized": {
+          "Title": "few are those who see with their own eyes and...",
+          "Description": "few are those who see with their own eyes\nand feel with their own hearts\nmost men adopt a new opinion\nas they would a new coat"
+        }
+      },
+      "ContentDetails": {
+        "Duration": "PT17S",
+        "Dimension": "2d",
+        "Definition": "hd",
+        "Caption": false,
+        "LicensedContent": false,
+        "Projection": "rectangular",
+        "RegionRestriction": null
+      },
+      "Statistics": {
+        "ViewCount": 2,
+        "LikeCount": 0,
+        "DislikeCount": 0,
+        "CommentCount": 0
+      },
+      "Player": {
+        "EmbedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/18ArX11zP0U\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+      }
+    },
+    {
+      "Snippet": {
+        "Title": "Don't spend another year doing the same shit",
+        "Description": "Don't spend another year doing the same shit.",
+        "PublishedAt": "2025-02-25T20:31:07+02:00",
+        "Tags": [
+          "Discipline",
+          "Motivation",
+          "StayHard",
+          "NoExcuses",
+          "SelfImprovement",
+          "GrindMode",
+          "MindsetMatters",
+          "MentalStrength",
+          "PushYourLimits",
+          "Relentless",
+          "JustDoIt"
+        ],
+        "CategoryId": "22",
+        "ThumbnailUrl": "https://i.ytimg.com/vi/IZSuoV2M8Kc/default.jpg",
+        "Localized": {
+          "Title": "Don't spend another year doing the same shit",
+          "Description": "Don't spend another year doing the same shit."
+        }
+      },
+      "ContentDetails": {
+        "Duration": "PT7S",
+        "Dimension": "2d",
+        "Definition": "hd",
+        "Caption": false,
+        "LicensedContent": false,
+        "Projection": "rectangular",
+        "RegionRestriction": null
+      },
+      "Statistics": {
+        "ViewCount": 3,
+        "LikeCount": 0,
+        "DislikeCount": 0,
+        "CommentCount": 0
+      },
+      "Player": {
+        "EmbedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/IZSuoV2M8Kc\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+      }
+    }
+  ]
+}
