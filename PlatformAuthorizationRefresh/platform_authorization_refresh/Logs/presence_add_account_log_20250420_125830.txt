@@ -1,0 +1,232 @@
+2025-04-20 12:58:30,300 [INFO] Log file: C:\Users\ofirs\PycharmProjects\PythonProject\PlatformAuthorizationRefresh\platform_authorization_refresh\Logs\presence_add_account_log_20250420_125830.txt
+2025-04-20 12:58:30,917 [INFO] GUI opened.
+2025-04-20 12:58:45,120 [INFO] Starting authorization for account: notepadclips@gmail.com on platform: youtube
+2025-04-20 12:58:55,520 [INFO] Launched subprocess (PID: 32492) for account: notepadclips@gmail.com
+2025-04-20 12:58:56,435 [DEBUG] Inner exe output: 
+2025-04-20 12:58:56,436 [DEBUG] Inner exe output: ======================================================================
+2025-04-20 12:58:56,436 [DEBUG] Inner exe output: [12:58:56] Starting YouTube OAuth authorization process
+2025-04-20 12:58:56,436 [DEBUG] Inner exe output: [12:58:56] Using account: notepadclips@gmail.com
+2025-04-20 12:58:56,436 [DEBUG] Inner exe output: [12:58:56] Starting local server...
+2025-04-20 12:58:56,437 [DEBUG] Inner exe output: * Serving Flask app 'platform_authorization_refresh.youtube_auth_refresh'
+2025-04-20 12:58:56,437 [DEBUG] Inner exe output: * Debug mode: off
+2025-04-20 12:58:56,443 [DEBUG] Processing line from inner exe: 
+2025-04-20 12:58:56,443 [DEBUG] Processing line from inner exe: ======================================================================
+2025-04-20 12:58:56,444 [DEBUG] Processing line from inner exe: [12:58:56] Starting YouTube OAuth authorization process
+2025-04-20 12:58:56,444 [DEBUG] Processing line from inner exe: [12:58:56] Using account: notepadclips@gmail.com
+2025-04-20 12:58:56,445 [DEBUG] Processing line from inner exe: [12:58:56] Starting local server...
+2025-04-20 12:58:56,446 [DEBUG] Processing line from inner exe:  * Serving Flask app 'platform_authorization_refresh.youtube_auth_refresh'
+2025-04-20 12:58:56,447 [DEBUG] Processing line from inner exe:  * Debug mode: off
+2025-04-20 12:58:57,533 [DEBUG] Process running for 12.41 seconds
+2025-04-20 12:58:59,546 [DEBUG] Process running for 14.42 seconds
+2025-04-20 12:59:01,549 [DEBUG] Process running for 16.42 seconds
+2025-04-20 12:59:03,554 [DEBUG] Process running for 18.43 seconds
+2025-04-20 12:59:05,520 [DEBUG] Inner exe output: [12:58:57] Opening default web browser for authorization...
+2025-04-20 12:59:05,520 [DEBUG] Inner exe output: [12:58:57] Waiting for authorization...
+2025-04-20 12:59:05,522 [DEBUG] Inner exe output: [12:59:04] Exchanging authorization code for tokens...
+2025-04-20 12:59:05,522 [DEBUG] Inner exe output: [12:59:05] Tokens successfully retrieved!
+2025-04-20 12:59:05,522 [DEBUG] Inner exe output: [12:59:05] Authorization complete!
+2025-04-20 12:59:05,522 [DEBUG] Inner exe output: 
+2025-04-20 12:59:05,522 [DEBUG] Inner exe output: ------------------------------ Token Information ------------------------------
+2025-04-20 12:59:05,522 [DEBUG] Inner exe output: Access Token: ya29.a0AZYkNZh_BnaUE...fbgvRw0175
+2025-04-20 12:59:05,522 [DEBUG] Inner exe output: Refresh Token: 1//03YPN5M...u_eJM_qvcs
+2025-04-20 12:59:05,522 [DEBUG] Inner exe output: Account: notepadclips@gmail.com
+2025-04-20 12:59:05,522 [DEBUG] Inner exe output: ----------------------------------------------------------------------
+2025-04-20 12:59:05,522 [DEBUG] Inner exe output: [12:59:05] You can now use these tokens for YouTube API requests
+2025-04-20 12:59:05,522 [DEBUG] Inner exe output: ======================================================================
+2025-04-20 12:59:05,522 [DEBUG] Inner exe output: 
+2025-04-20 12:59:05,522 [DEBUG] Inner exe output: [12:59:05] Using credentials file: C:\Users\ofirs\source\repos\POC-Platform-Engagement-Poller\POC-Platform-Engagement-Poller\CredentialsManagers\CredentialsData\YouTubeCredentials.json
+2025-04-20 12:59:05,522 [DEBUG] Inner exe output: [12:59:05] Successfully updated tokens for 'notepadclips@gmail.com' in C:\Users\ofirs\source\repos\POC-Platform-Engagement-Poller\POC-Platform-Engagement-Poller\CredentialsManagers\CredentialsData\YouTubeCredentials.json
+2025-04-20 12:59:05,564 [DEBUG] Process running for 20.44 seconds
+2025-04-20 12:59:05,580 [DEBUG] Processing line from inner exe: [12:58:57] Opening default web browser for authorization...
+2025-04-20 12:59:05,583 [DEBUG] Processing line from inner exe: [12:58:57] Waiting for authorization...
+2025-04-20 12:59:05,586 [DEBUG] Processing line from inner exe: [12:59:04] Exchanging authorization code for tokens...
+2025-04-20 12:59:05,590 [DEBUG] Processing line from inner exe: [12:59:05] Tokens successfully retrieved!
+2025-04-20 12:59:05,596 [DEBUG] Processing line from inner exe: [12:59:05] Authorization complete!
+2025-04-20 12:59:05,599 [DEBUG] Processing line from inner exe: 
+2025-04-20 12:59:05,602 [DEBUG] Processing line from inner exe: ------------------------------ Token Information ------------------------------
+2025-04-20 12:59:05,604 [DEBUG] Processing line from inner exe: Access Token: ya29.a0AZYkNZh_BnaUE...fbgvRw0175
+2025-04-20 12:59:05,607 [DEBUG] Processing line from inner exe: Refresh Token: 1//03YPN5M...u_eJM_qvcs
+2025-04-20 12:59:05,610 [DEBUG] Processing line from inner exe: Account: notepadclips@gmail.com
+2025-04-20 12:59:05,612 [DEBUG] Processing line from inner exe: ----------------------------------------------------------------------
+2025-04-20 12:59:05,613 [DEBUG] Processing line from inner exe: [12:59:05] You can now use these tokens for YouTube API requests
+2025-04-20 12:59:05,615 [DEBUG] Processing line from inner exe: ======================================================================
+2025-04-20 12:59:05,617 [DEBUG] Processing line from inner exe: 
+2025-04-20 12:59:05,619 [DEBUG] Processing line from inner exe: [12:59:05] Using credentials file: C:\Users\ofirs\source\repos\POC-Platform-Engagement-Poller\POC-Platform-Engagement-Poller\CredentialsManagers\CredentialsData\YouTubeCredentials.json
+2025-04-20 12:59:05,620 [DEBUG] Processing line from inner exe: [12:59:05] Successfully updated tokens for 'notepadclips@gmail.com' in C:\Users\ofirs\source\repos\POC-Platform-Engagement-Poller\POC-Platform-Engagement-Poller\CredentialsManagers\CredentialsData\YouTubeCredentials.json
+2025-04-20 12:59:05,999 [DEBUG] Processing line from inner exe: RETURN_CODE:0
+2025-04-20 12:59:06,000 [INFO] Authorization succeeded for account: notepadclips@gmail.com
+2025-04-20 12:59:06,000 [INFO] ================================================================================
+2025-04-20 12:59:06,000 [INFO] Refresh auth terminated for account: notepadclips@gmail.com | Status: Success | Return code: 0
+2025-04-20 12:59:06,000 [INFO] ================================================================================
+2025-04-20 12:59:21,544 [INFO] Starting authorization for account: rednblack.presence@gmail.com on platform: youtube
+2025-04-20 12:59:21,552 [INFO] Launched subprocess (PID: 31464) for account: rednblack.presence@gmail.com
+2025-04-20 12:59:22,422 [DEBUG] Inner exe output: 
+2025-04-20 12:59:22,422 [DEBUG] Inner exe output: ======================================================================
+2025-04-20 12:59:22,422 [DEBUG] Inner exe output: [12:59:22] Starting YouTube OAuth authorization process
+2025-04-20 12:59:22,422 [DEBUG] Inner exe output: [12:59:22] Using account: rednblack.presence@gmail.com
+2025-04-20 12:59:22,422 [DEBUG] Inner exe output: [12:59:22] Starting local server...
+2025-04-20 12:59:22,422 [DEBUG] Inner exe output: * Serving Flask app 'platform_authorization_refresh.youtube_auth_refresh'
+2025-04-20 12:59:22,422 [DEBUG] Inner exe output: * Debug mode: off
+2025-04-20 12:59:22,462 [DEBUG] Processing line from inner exe: 
+2025-04-20 12:59:22,463 [DEBUG] Processing line from inner exe: ======================================================================
+2025-04-20 12:59:22,464 [DEBUG] Processing line from inner exe: [12:59:22] Starting YouTube OAuth authorization process
+2025-04-20 12:59:22,464 [DEBUG] Processing line from inner exe: [12:59:22] Using account: rednblack.presence@gmail.com
+2025-04-20 12:59:22,465 [DEBUG] Processing line from inner exe: [12:59:22] Starting local server...
+2025-04-20 12:59:22,466 [DEBUG] Processing line from inner exe:  * Serving Flask app 'platform_authorization_refresh.youtube_auth_refresh'
+2025-04-20 12:59:22,466 [DEBUG] Processing line from inner exe:  * Debug mode: off
+2025-04-20 12:59:23,571 [DEBUG] Process running for 2.02 seconds
+2025-04-20 12:59:25,579 [DEBUG] Process running for 4.03 seconds
+2025-04-20 12:59:27,579 [DEBUG] Process running for 6.03 seconds
+2025-04-20 12:59:29,580 [DEBUG] Process running for 8.03 seconds
+2025-04-20 12:59:31,006 [DEBUG] Inner exe output: [12:59:23] Opening default web browser for authorization...
+2025-04-20 12:59:31,006 [DEBUG] Inner exe output: [12:59:23] Waiting for authorization...
+2025-04-20 12:59:31,006 [DEBUG] Inner exe output: [12:59:30] Exchanging authorization code for tokens...
+2025-04-20 12:59:31,007 [DEBUG] Inner exe output: [12:59:30] Tokens successfully retrieved!
+2025-04-20 12:59:31,007 [DEBUG] Inner exe output: [12:59:31] Authorization complete!
+2025-04-20 12:59:31,007 [DEBUG] Inner exe output: 
+2025-04-20 12:59:31,007 [DEBUG] Inner exe output: ------------------------------ Token Information ------------------------------
+2025-04-20 12:59:31,007 [DEBUG] Inner exe output: Access Token: ya29.a0AZYkNZjkbWXOX...HPK_RA0175
+2025-04-20 12:59:31,007 [DEBUG] Inner exe output: Refresh Token: 1//03rr1Pa...ZqutY6N1yU
+2025-04-20 12:59:31,007 [DEBUG] Inner exe output: Account: rednblack.presence@gmail.com
+2025-04-20 12:59:31,007 [DEBUG] Inner exe output: ----------------------------------------------------------------------
+2025-04-20 12:59:31,007 [DEBUG] Inner exe output: [12:59:31] You can now use these tokens for YouTube API requests
+2025-04-20 12:59:31,007 [DEBUG] Inner exe output: ======================================================================
+2025-04-20 12:59:31,007 [DEBUG] Inner exe output: 
+2025-04-20 12:59:31,007 [DEBUG] Inner exe output: [12:59:31] Using credentials file: C:\Users\ofirs\source\repos\POC-Platform-Engagement-Poller\POC-Platform-Engagement-Poller\CredentialsManagers\CredentialsData\YouTubeCredentials.json
+2025-04-20 12:59:31,007 [DEBUG] Inner exe output: [12:59:31] Successfully updated tokens for 'rednblack.presence@gmail.com' in C:\Users\ofirs\source\repos\POC-Platform-Engagement-Poller\POC-Platform-Engagement-Poller\CredentialsManagers\CredentialsData\YouTubeCredentials.json
+2025-04-20 12:59:31,064 [DEBUG] Processing line from inner exe: [12:59:23] Opening default web browser for authorization...
+2025-04-20 12:59:31,067 [DEBUG] Processing line from inner exe: [12:59:23] Waiting for authorization...
+2025-04-20 12:59:31,069 [DEBUG] Processing line from inner exe: [12:59:30] Exchanging authorization code for tokens...
+2025-04-20 12:59:31,070 [DEBUG] Processing line from inner exe: [12:59:30] Tokens successfully retrieved!
+2025-04-20 12:59:31,071 [DEBUG] Processing line from inner exe: [12:59:31] Authorization complete!
+2025-04-20 12:59:31,072 [DEBUG] Processing line from inner exe: 
+2025-04-20 12:59:31,072 [DEBUG] Processing line from inner exe: ------------------------------ Token Information ------------------------------
+2025-04-20 12:59:31,073 [DEBUG] Processing line from inner exe: Access Token: ya29.a0AZYkNZjkbWXOX...HPK_RA0175
+2025-04-20 12:59:31,074 [DEBUG] Processing line from inner exe: Refresh Token: 1//03rr1Pa...ZqutY6N1yU
+2025-04-20 12:59:31,075 [DEBUG] Processing line from inner exe: Account: rednblack.presence@gmail.com
+2025-04-20 12:59:31,075 [DEBUG] Processing line from inner exe: ----------------------------------------------------------------------
+2025-04-20 12:59:31,075 [DEBUG] Processing line from inner exe: [12:59:31] You can now use these tokens for YouTube API requests
+2025-04-20 12:59:31,075 [DEBUG] Processing line from inner exe: ======================================================================
+2025-04-20 12:59:31,076 [DEBUG] Processing line from inner exe: 
+2025-04-20 12:59:31,076 [DEBUG] Processing line from inner exe: [12:59:31] Using credentials file: C:\Users\ofirs\source\repos\POC-Platform-Engagement-Poller\POC-Platform-Engagement-Poller\CredentialsManagers\CredentialsData\YouTubeCredentials.json
+2025-04-20 12:59:31,077 [DEBUG] Processing line from inner exe: [12:59:31] Successfully updated tokens for 'rednblack.presence@gmail.com' in C:\Users\ofirs\source\repos\POC-Platform-Engagement-Poller\POC-Platform-Engagement-Poller\CredentialsManagers\CredentialsData\YouTubeCredentials.json
+2025-04-20 12:59:31,449 [DEBUG] Processing line from inner exe: RETURN_CODE:0
+2025-04-20 12:59:31,450 [INFO] Authorization succeeded for account: rednblack.presence@gmail.com
+2025-04-20 12:59:31,450 [INFO] ================================================================================
+2025-04-20 12:59:31,450 [INFO] Refresh auth terminated for account: rednblack.presence@gmail.com | Status: Success | Return code: 0
+2025-04-20 12:59:31,450 [INFO] ================================================================================
+2025-04-20 12:59:41,875 [INFO] Starting authorization for account: gettingrich.presence@gmail.com on platform: youtube
+2025-04-20 12:59:41,883 [INFO] Launched subprocess (PID: 39144) for account: gettingrich.presence@gmail.com
+2025-04-20 12:59:42,763 [DEBUG] Inner exe output: 
+2025-04-20 12:59:42,763 [DEBUG] Inner exe output: ======================================================================
+2025-04-20 12:59:42,763 [DEBUG] Inner exe output: [12:59:42] Starting YouTube OAuth authorization process
+2025-04-20 12:59:42,763 [DEBUG] Inner exe output: [12:59:42] Using account: gettingrich.presence@gmail.com
+2025-04-20 12:59:42,763 [DEBUG] Inner exe output: [12:59:42] Starting local server...
+2025-04-20 12:59:42,763 [DEBUG] Inner exe output: * Serving Flask app 'platform_authorization_refresh.youtube_auth_refresh'
+2025-04-20 12:59:42,763 [DEBUG] Inner exe output: * Debug mode: off
+2025-04-20 12:59:42,795 [DEBUG] Processing line from inner exe: 
+2025-04-20 12:59:42,796 [DEBUG] Processing line from inner exe: ======================================================================
+2025-04-20 12:59:42,797 [DEBUG] Processing line from inner exe: [12:59:42] Starting YouTube OAuth authorization process
+2025-04-20 12:59:42,797 [DEBUG] Processing line from inner exe: [12:59:42] Using account: gettingrich.presence@gmail.com
+2025-04-20 12:59:42,798 [DEBUG] Processing line from inner exe: [12:59:42] Starting local server...
+2025-04-20 12:59:42,798 [DEBUG] Processing line from inner exe:  * Serving Flask app 'platform_authorization_refresh.youtube_auth_refresh'
+2025-04-20 12:59:42,799 [DEBUG] Processing line from inner exe:  * Debug mode: off
+2025-04-20 12:59:43,907 [DEBUG] Process running for 2.03 seconds
+2025-04-20 12:59:45,918 [DEBUG] Process running for 4.04 seconds
+2025-04-20 12:59:47,921 [DEBUG] Process running for 6.04 seconds
+2025-04-20 12:59:49,925 [DEBUG] Process running for 8.05 seconds
+2025-04-20 12:59:51,845 [DEBUG] Inner exe output: [12:59:43] Opening default web browser for authorization...
+2025-04-20 12:59:51,845 [DEBUG] Inner exe output: [12:59:43] Waiting for authorization...
+2025-04-20 12:59:51,845 [DEBUG] Inner exe output: [12:59:51] Exchanging authorization code for tokens...
+2025-04-20 12:59:51,845 [DEBUG] Inner exe output: [12:59:51] Tokens successfully retrieved!
+2025-04-20 12:59:51,845 [DEBUG] Inner exe output: [12:59:51] Authorization complete!
+2025-04-20 12:59:51,845 [DEBUG] Inner exe output: 
+2025-04-20 12:59:51,845 [DEBUG] Inner exe output: ------------------------------ Token Information ------------------------------
+2025-04-20 12:59:51,845 [DEBUG] Inner exe output: Access Token: ya29.a0AZYkNZjzLxQPI...Rtbz3Q0175
+2025-04-20 12:59:51,846 [DEBUG] Inner exe output: Refresh Token: 1//03DpDNT...fyTtALuVPg
+2025-04-20 12:59:51,846 [DEBUG] Inner exe output: Account: gettingrich.presence@gmail.com
+2025-04-20 12:59:51,846 [DEBUG] Inner exe output: ----------------------------------------------------------------------
+2025-04-20 12:59:51,846 [DEBUG] Inner exe output: [12:59:51] You can now use these tokens for YouTube API requests
+2025-04-20 12:59:51,846 [DEBUG] Inner exe output: ======================================================================
+2025-04-20 12:59:51,846 [DEBUG] Inner exe output: 
+2025-04-20 12:59:51,846 [DEBUG] Inner exe output: [12:59:51] Using credentials file: C:\Users\ofirs\source\repos\POC-Platform-Engagement-Poller\POC-Platform-Engagement-Poller\CredentialsManagers\CredentialsData\YouTubeCredentials.json
+2025-04-20 12:59:51,846 [DEBUG] Inner exe output: [12:59:51] Successfully updated tokens for 'gettingrich.presence@gmail.com' in C:\Users\ofirs\source\repos\POC-Platform-Engagement-Poller\POC-Platform-Engagement-Poller\CredentialsManagers\CredentialsData\YouTubeCredentials.json
+2025-04-20 12:59:51,852 [DEBUG] Processing line from inner exe: [12:59:43] Opening default web browser for authorization...
+2025-04-20 12:59:51,853 [DEBUG] Processing line from inner exe: [12:59:43] Waiting for authorization...
+2025-04-20 12:59:51,856 [DEBUG] Processing line from inner exe: [12:59:51] Exchanging authorization code for tokens...
+2025-04-20 12:59:51,857 [DEBUG] Processing line from inner exe: [12:59:51] Tokens successfully retrieved!
+2025-04-20 12:59:51,859 [DEBUG] Processing line from inner exe: [12:59:51] Authorization complete!
+2025-04-20 12:59:51,860 [DEBUG] Processing line from inner exe: 
+2025-04-20 12:59:51,861 [DEBUG] Processing line from inner exe: ------------------------------ Token Information ------------------------------
+2025-04-20 12:59:51,862 [DEBUG] Processing line from inner exe: Access Token: ya29.a0AZYkNZjzLxQPI...Rtbz3Q0175
+2025-04-20 12:59:51,863 [DEBUG] Processing line from inner exe: Refresh Token: 1//03DpDNT...fyTtALuVPg
+2025-04-20 12:59:51,863 [DEBUG] Processing line from inner exe: Account: gettingrich.presence@gmail.com
+2025-04-20 12:59:51,864 [DEBUG] Processing line from inner exe: ----------------------------------------------------------------------
+2025-04-20 12:59:51,865 [DEBUG] Processing line from inner exe: [12:59:51] You can now use these tokens for YouTube API requests
+2025-04-20 12:59:51,866 [DEBUG] Processing line from inner exe: ======================================================================
+2025-04-20 12:59:51,866 [DEBUG] Processing line from inner exe: 
+2025-04-20 12:59:51,867 [DEBUG] Processing line from inner exe: [12:59:51] Using credentials file: C:\Users\ofirs\source\repos\POC-Platform-Engagement-Poller\POC-Platform-Engagement-Poller\CredentialsManagers\CredentialsData\YouTubeCredentials.json
+2025-04-20 12:59:51,869 [DEBUG] Processing line from inner exe: [12:59:51] Successfully updated tokens for 'gettingrich.presence@gmail.com' in C:\Users\ofirs\source\repos\POC-Platform-Engagement-Poller\POC-Platform-Engagement-Poller\CredentialsManagers\CredentialsData\YouTubeCredentials.json
+2025-04-20 12:59:51,929 [DEBUG] Process running for 10.05 seconds
+2025-04-20 12:59:52,302 [DEBUG] Processing line from inner exe: RETURN_CODE:0
+2025-04-20 12:59:52,302 [INFO] Authorization succeeded for account: gettingrich.presence@gmail.com
+2025-04-20 12:59:52,302 [INFO] ================================================================================
+2025-04-20 12:59:52,302 [INFO] Refresh auth terminated for account: gettingrich.presence@gmail.com | Status: Success | Return code: 0
+2025-04-20 12:59:52,302 [INFO] ================================================================================
+2025-04-20 13:00:50,947 [INFO] Starting authorization for account: wisejellyfish.presence@gmail.com on platform: youtube
+2025-04-20 13:00:50,955 [INFO] Launched subprocess (PID: 37208) for account: wisejellyfish.presence@gmail.com
+2025-04-20 13:00:51,834 [DEBUG] Inner exe output: 
+2025-04-20 13:00:51,834 [DEBUG] Inner exe output: ======================================================================
+2025-04-20 13:00:51,834 [DEBUG] Inner exe output: [13:00:51] Starting YouTube OAuth authorization process
+2025-04-20 13:00:51,834 [DEBUG] Inner exe output: [13:00:51] Using account: wisejellyfish.presence@gmail.com
+2025-04-20 13:00:51,834 [DEBUG] Inner exe output: [13:00:51] Starting local server...
+2025-04-20 13:00:51,834 [DEBUG] Inner exe output: * Serving Flask app 'platform_authorization_refresh.youtube_auth_refresh'
+2025-04-20 13:00:51,834 [DEBUG] Inner exe output: * Debug mode: off
+2025-04-20 13:00:51,869 [DEBUG] Processing line from inner exe: 
+2025-04-20 13:00:51,870 [DEBUG] Processing line from inner exe: ======================================================================
+2025-04-20 13:00:51,870 [DEBUG] Processing line from inner exe: [13:00:51] Starting YouTube OAuth authorization process
+2025-04-20 13:00:51,872 [DEBUG] Processing line from inner exe: [13:00:51] Using account: wisejellyfish.presence@gmail.com
+2025-04-20 13:00:51,872 [DEBUG] Processing line from inner exe: [13:00:51] Starting local server...
+2025-04-20 13:00:51,872 [DEBUG] Processing line from inner exe:  * Serving Flask app 'platform_authorization_refresh.youtube_auth_refresh'
+2025-04-20 13:00:51,874 [DEBUG] Processing line from inner exe:  * Debug mode: off
+2025-04-20 13:00:52,956 [DEBUG] Process running for 2.01 seconds
+2025-04-20 13:00:54,970 [DEBUG] Process running for 4.02 seconds
+2025-04-20 13:00:56,975 [DEBUG] Process running for 6.03 seconds
+2025-04-20 13:00:58,975 [DEBUG] Process running for 8.03 seconds
+2025-04-20 13:00:59,916 [DEBUG] Inner exe output: [13:00:52] Opening default web browser for authorization...
+2025-04-20 13:00:59,916 [DEBUG] Inner exe output: [13:00:52] Waiting for authorization...
+2025-04-20 13:00:59,916 [DEBUG] Inner exe output: [13:00:59] Exchanging authorization code for tokens...
+2025-04-20 13:00:59,916 [DEBUG] Inner exe output: [13:00:59] Tokens successfully retrieved!
+2025-04-20 13:00:59,916 [DEBUG] Inner exe output: [13:00:59] Authorization complete!
+2025-04-20 13:00:59,916 [DEBUG] Inner exe output: 
+2025-04-20 13:00:59,916 [DEBUG] Inner exe output: ------------------------------ Token Information ------------------------------
+2025-04-20 13:00:59,916 [DEBUG] Inner exe output: Access Token: ya29.a0AZYkNZgNElu3-...9B62Lw0175
+2025-04-20 13:00:59,916 [DEBUG] Inner exe output: Refresh Token: 1//03HjkDl...n-sT3Sr9TA
+2025-04-20 13:00:59,917 [DEBUG] Inner exe output: Account: wisejellyfish.presence@gmail.com
+2025-04-20 13:00:59,917 [DEBUG] Inner exe output: ----------------------------------------------------------------------
+2025-04-20 13:00:59,917 [DEBUG] Inner exe output: [13:00:59] You can now use these tokens for YouTube API requests
+2025-04-20 13:00:59,917 [DEBUG] Inner exe output: ======================================================================
+2025-04-20 13:00:59,917 [DEBUG] Inner exe output: 
+2025-04-20 13:00:59,917 [DEBUG] Inner exe output: [13:00:59] Using credentials file: C:\Users\ofirs\source\repos\POC-Platform-Engagement-Poller\POC-Platform-Engagement-Poller\CredentialsManagers\CredentialsData\YouTubeCredentials.json
+2025-04-20 13:00:59,917 [DEBUG] Inner exe output: [13:00:59] Successfully updated tokens for 'wisejellyfish.presence@gmail.com' in C:\Users\ofirs\source\repos\POC-Platform-Engagement-Poller\POC-Platform-Engagement-Poller\CredentialsManagers\CredentialsData\YouTubeCredentials.json
+2025-04-20 13:00:59,925 [DEBUG] Processing line from inner exe: [13:00:52] Opening default web browser for authorization...
+2025-04-20 13:00:59,928 [DEBUG] Processing line from inner exe: [13:00:52] Waiting for authorization...
+2025-04-20 13:00:59,930 [DEBUG] Processing line from inner exe: [13:00:59] Exchanging authorization code for tokens...
+2025-04-20 13:00:59,932 [DEBUG] Processing line from inner exe: [13:00:59] Tokens successfully retrieved!
+2025-04-20 13:00:59,934 [DEBUG] Processing line from inner exe: [13:00:59] Authorization complete!
+2025-04-20 13:00:59,935 [DEBUG] Processing line from inner exe: 
+2025-04-20 13:00:59,936 [DEBUG] Processing line from inner exe: ------------------------------ Token Information ------------------------------
+2025-04-20 13:00:59,937 [DEBUG] Processing line from inner exe: Access Token: ya29.a0AZYkNZgNElu3-...9B62Lw0175
+2025-04-20 13:00:59,939 [DEBUG] Processing line from inner exe: Refresh Token: 1//03HjkDl...n-sT3Sr9TA
+2025-04-20 13:00:59,940 [DEBUG] Processing line from inner exe: Account: wisejellyfish.presence@gmail.com
+2025-04-20 13:00:59,941 [DEBUG] Processing line from inner exe: ----------------------------------------------------------------------
+2025-04-20 13:00:59,943 [DEBUG] Processing line from inner exe: [13:00:59] You can now use these tokens for YouTube API requests
+2025-04-20 13:00:59,944 [DEBUG] Processing line from inner exe: ======================================================================
+2025-04-20 13:00:59,945 [DEBUG] Processing line from inner exe: 
+2025-04-20 13:00:59,945 [DEBUG] Processing line from inner exe: [13:00:59] Using credentials file: C:\Users\ofirs\source\repos\POC-Platform-Engagement-Poller\POC-Platform-Engagement-Poller\CredentialsManagers\CredentialsData\YouTubeCredentials.json
+2025-04-20 13:00:59,946 [DEBUG] Processing line from inner exe: [13:00:59] Successfully updated tokens for 'wisejellyfish.presence@gmail.com' in C:\Users\ofirs\source\repos\POC-Platform-Engagement-Poller\POC-Platform-Engagement-Poller\CredentialsManagers\CredentialsData\YouTubeCredentials.json
+2025-04-20 13:01:00,374 [DEBUG] Processing line from inner exe: RETURN_CODE:0
+2025-04-20 13:01:00,374 [INFO] Authorization succeeded for account: wisejellyfish.presence@gmail.com
+2025-04-20 13:01:00,375 [INFO] ================================================================================
+2025-04-20 13:01:00,375 [INFO] Refresh auth terminated for account: wisejellyfish.presence@gmail.com | Status: Success | Return code: 0
+2025-04-20 13:01:00,375 [INFO] ================================================================================
