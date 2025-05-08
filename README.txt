@@ -1,0 +1,1 @@
+This repository contains mostly code and resources relevant to Ofir's contribution to the Presence Company Ltd.
