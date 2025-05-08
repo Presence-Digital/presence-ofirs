@@ -1,0 +1,45 @@
+# Bytecode and cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+env/
+.venv1/
+
+# Logs and runtime
+*.log
+Logs/
+*.tmp
+
+# IDE/editor configs
+.idea/
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Distribution/build
+build/
+dist/
+*.spec
+
+# PyInstaller junk (if applicable)
+*.manifest
+*.spec
+*.dll
+*.so
+*.dylib
+*.exe
+
+# Test/coverage files
+.cache/
+coverage.xml
+htmlcov/
+.tox/
+nosetests.xml
+.pytest_cache/

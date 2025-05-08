@@ -1,0 +1,70 @@
+2025-04-14 18:29:30,502 [INFO] Log file: C:\Users\ofirs\PycharmProjects\PythonProject\PlatformAuthorizationRefresh\platform_authorization_refresh\Logs\presence_add_account_log_20250414_182930.txt
+2025-04-14 18:29:30,593 [INFO] GUI opened.
+2025-04-14 18:29:36,903 [INFO] Starting authorization for account: Wisejellyfish.presence@gmail.com on platform: youtube
+2025-04-14 18:29:36,913 [INFO] Launched subprocess (PID: 24136) for account: Wisejellyfish.presence@gmail.com
+2025-04-14 18:29:37,795 [DEBUG] Inner exe output: 
+2025-04-14 18:29:37,795 [DEBUG] Inner exe output: ======================================================================
+2025-04-14 18:29:37,795 [DEBUG] Inner exe output: [18:29:37] Starting YouTube OAuth authorization process
+2025-04-14 18:29:37,795 [DEBUG] Inner exe output: [18:29:37] Using account: Wisejellyfish.presence@gmail.com
+2025-04-14 18:29:37,795 [DEBUG] Inner exe output: [18:29:37] Starting local server...
+2025-04-14 18:29:37,795 [DEBUG] Inner exe output: * Serving Flask app 'platform_authorization_refresh.youtube_auth_refresh'
+2025-04-14 18:29:37,795 [DEBUG] Inner exe output: * Debug mode: off
+2025-04-14 18:29:37,818 [DEBUG] Processing line from inner exe: 
+2025-04-14 18:29:37,819 [DEBUG] Processing line from inner exe: ======================================================================
+2025-04-14 18:29:37,819 [DEBUG] Processing line from inner exe: [18:29:37] Starting YouTube OAuth authorization process
+2025-04-14 18:29:37,820 [DEBUG] Processing line from inner exe: [18:29:37] Using account: Wisejellyfish.presence@gmail.com
+2025-04-14 18:29:37,820 [DEBUG] Processing line from inner exe: [18:29:37] Starting local server...
+2025-04-14 18:29:37,821 [DEBUG] Processing line from inner exe:  * Serving Flask app 'platform_authorization_refresh.youtube_auth_refresh'
+2025-04-14 18:29:37,822 [DEBUG] Processing line from inner exe:  * Debug mode: off
+2025-04-14 18:29:38,913 [DEBUG] Process running for 2.01 seconds
+2025-04-14 18:29:40,926 [DEBUG] Process running for 4.02 seconds
+2025-04-14 18:29:42,929 [DEBUG] Process running for 6.02 seconds
+2025-04-14 18:29:44,940 [DEBUG] Process running for 8.03 seconds
+2025-04-14 18:29:46,385 [DEBUG] Inner exe output: [18:29:38] Opening default web browser for authorization...
+2025-04-14 18:29:46,385 [DEBUG] Inner exe output: [18:29:38] Waiting for authorization...
+2025-04-14 18:29:46,385 [DEBUG] Inner exe output: [18:29:46] Exchanging authorization code for tokens...
+2025-04-14 18:29:46,385 [DEBUG] Inner exe output: [18:29:46] Tokens successfully retrieved!
+2025-04-14 18:29:46,385 [DEBUG] Inner exe output: [18:29:46] Authorization complete!
+2025-04-14 18:29:46,385 [DEBUG] Inner exe output: 
+2025-04-14 18:29:46,385 [DEBUG] Inner exe output: ------------------------------ Token Information ------------------------------
+2025-04-14 18:29:46,385 [DEBUG] Inner exe output: Access Token: ya29.a0AZYkNZilqmSAo...z-1hag0175
+2025-04-14 18:29:46,385 [DEBUG] Inner exe output: Refresh Token: 1//03hyY3g...EMo1drrq64
+2025-04-14 18:29:46,385 [DEBUG] Inner exe output: Account: Wisejellyfish.presence@gmail.com
+2025-04-14 18:29:46,385 [DEBUG] Inner exe output: ----------------------------------------------------------------------
+2025-04-14 18:29:46,385 [DEBUG] Inner exe output: [18:29:46] You can now use these tokens for YouTube API requests
+2025-04-14 18:29:46,385 [DEBUG] Inner exe output: ======================================================================
+2025-04-14 18:29:46,386 [DEBUG] Inner exe output: 
+2025-04-14 18:29:46,386 [DEBUG] Inner exe output: [18:29:46] Using credentials file: C:\Users\ofirs\source\repos\POC-Platform-Engagement-Poller\POC-Platform-Engagement-Poller\CredentialsManagers\CredentialsData\YouTubeCredentials.json
+2025-04-14 18:29:46,386 [DEBUG] Inner exe output: [18:29:46] Successfully updated tokens for 'Wisejellyfish.presence@gmail.com' in C:\Users\ofirs\source\repos\POC-Platform-Engagement-Poller\POC-Platform-Engagement-Poller\CredentialsManagers\CredentialsData\YouTubeCredentials.json
+2025-04-14 18:29:46,403 [DEBUG] Processing line from inner exe: [18:29:38] Opening default web browser for authorization...
+2025-04-14 18:29:46,405 [DEBUG] Processing line from inner exe: [18:29:38] Waiting for authorization...
+2025-04-14 18:29:46,409 [DEBUG] Processing line from inner exe: [18:29:46] Exchanging authorization code for tokens...
+2025-04-14 18:29:46,412 [DEBUG] Processing line from inner exe: [18:29:46] Tokens successfully retrieved!
+2025-04-14 18:29:46,419 [DEBUG] Processing line from inner exe: [18:29:46] Authorization complete!
+2025-04-14 18:29:46,420 [DEBUG] Processing line from inner exe: 
+2025-04-14 18:29:46,422 [DEBUG] Processing line from inner exe: ------------------------------ Token Information ------------------------------
+2025-04-14 18:29:46,423 [DEBUG] Processing line from inner exe: Access Token: ya29.a0AZYkNZilqmSAo...z-1hag0175
+2025-04-14 18:29:46,425 [DEBUG] Processing line from inner exe: Refresh Token: 1//03hyY3g...EMo1drrq64
+2025-04-14 18:29:46,427 [DEBUG] Processing line from inner exe: Account: Wisejellyfish.presence@gmail.com
+2025-04-14 18:29:46,428 [DEBUG] Processing line from inner exe: ----------------------------------------------------------------------
+2025-04-14 18:29:46,429 [DEBUG] Processing line from inner exe: [18:29:46] You can now use these tokens for YouTube API requests
+2025-04-14 18:29:46,430 [DEBUG] Processing line from inner exe: ======================================================================
+2025-04-14 18:29:46,431 [DEBUG] Processing line from inner exe: 
+2025-04-14 18:29:46,432 [DEBUG] Processing line from inner exe: [18:29:46] Using credentials file: C:\Users\ofirs\source\repos\POC-Platform-Engagement-Poller\POC-Platform-Engagement-Poller\CredentialsManagers\CredentialsData\YouTubeCredentials.json
+2025-04-14 18:29:46,434 [DEBUG] Processing line from inner exe: [18:29:46] Successfully updated tokens for 'Wisejellyfish.presence@gmail.com' in C:\Users\ofirs\source\repos\POC-Platform-Engagement-Poller\POC-Platform-Engagement-Poller\CredentialsManagers\CredentialsData\YouTubeCredentials.json
+2025-04-14 18:29:46,945 [DEBUG] Process running for 10.04 seconds
+2025-04-14 18:29:47,054 [DEBUG] Processing line from inner exe: RETURN_CODE:0
+2025-04-14 18:29:47,055 [INFO] Authorization succeeded for account: Wisejellyfish.presence@gmail.com
+2025-04-14 18:29:47,055 [INFO] ================================================================================
+2025-04-14 18:29:47,056 [INFO] Refresh auth terminated for account: Wisejellyfish.presence@gmail.com | Status: Success | Return code: 0
+2025-04-14 18:29:47,056 [INFO] ================================================================================
+2025-04-14 18:29:52,698 [INFO] Starting authorization for account: Wisejellyfish.presence@gmail.com on platform: youtube
+2025-04-14 18:29:52,708 [INFO] Launched subprocess (PID: 7124) for account: Wisejellyfish.presence@gmail.com
+2025-04-14 18:29:53,591 [DEBUG] Inner exe output: [18:29:53] Error: No Chrome profile found for Gmail: Wisejellyfish.presence@gmail.com
+2025-04-14 18:29:53,623 [DEBUG] Processing line from inner exe: [18:29:53] Error: No Chrome profile found for Gmail: Wisejellyfish.presence@gmail.com
+2025-04-14 18:29:53,997 [DEBUG] Processing line from inner exe: RETURN_CODE:1
+2025-04-14 18:29:53,997 [INFO] Authorization failed with return code: 1
+2025-04-14 18:29:53,998 [INFO] ================================================================================
+2025-04-14 18:29:53,998 [INFO] Refresh auth terminated for account: Wisejellyfish.presence@gmail.com | Status: Failure | Return code: 1
+2025-04-14 18:29:53,998 [INFO] ================================================================================
+2025-04-14 18:29:55,052 [INFO] Form cleared by user.

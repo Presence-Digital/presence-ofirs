@@ -1,0 +1,2 @@
+2025-04-14 18:42:01,467 [INFO] Log file: C:\Users\ofirs\PycharmProjects\PythonProject\PlatformAuthorizationRefresh\platform_authorization_refresh\Logs\presence_add_account_log_20250414_184201.txt
+2025-04-14 18:42:01,559 [INFO] GUI opened.
