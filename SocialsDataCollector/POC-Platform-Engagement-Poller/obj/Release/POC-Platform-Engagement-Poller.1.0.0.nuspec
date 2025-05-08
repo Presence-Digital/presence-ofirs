@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>POC-Platform-Engagement-Poller</id>
+    <version>1.0.0</version>
+    <authors>POC-Platform-Engagement-Poller</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net9.0">
+        <dependency id="Google.Apis.YouTube.v3" version="1.69.0.3707" exclude="Build,Analyzers" />
+        <dependency id="Google.Apis.YouTubeAnalytics.v2" version="1.68.0.3106" exclude="Build,Analyzers" />
+        <dependency id="LibGit2Sharp" version="0.31.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Caching.Memory" version="9.0.2" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration" version="9.0.3" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration.Binder" version="9.0.3" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration.Json" version="9.0.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <contentFiles>
+      <files include="any/net9.0/Scripts/PlatformAuthorizationRefresh/PlatformAuthorizationRefresh.exe" buildAction="Content" />
+      <files include="any/net9.0/AuthorizationRefreshNotifications.json" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="C:\Users\ofirs\source\repos\POC-Platform-Engagement-Poller\POC-Platform-Engagement-Poller\bin\Release\net9.0\POC-Platform-Engagement-Poller.runtimeconfig.json" target="lib\net9.0\POC-Platform-Engagement-Poller.runtimeconfig.json" />
+    <file src="C:\Users\ofirs\source\repos\POC-Platform-Engagement-Poller\POC-Platform-Engagement-Poller\bin\Release\net9.0\POC-Platform-Engagement-Poller.dll" target="lib\net9.0\POC-Platform-Engagement-Poller.dll" />
+    <file src="C:\Users\ofirs\source\repos\POC-Platform-Engagement-Poller\POC-Platform-Engagement-Poller\Scripts\PlatformAuthorizationRefresh\PlatformAuthorizationRefresh.exe" target="content\Scripts\PlatformAuthorizationRefresh\PlatformAuthorizationRefresh.exe" />
+    <file src="C:\Users\ofirs\source\repos\POC-Platform-Engagement-Poller\POC-Platform-Engagement-Poller\Scripts\PlatformAuthorizationRefresh\PlatformAuthorizationRefresh.exe" target="contentFiles\any\net9.0\Scripts\PlatformAuthorizationRefresh\PlatformAuthorizationRefresh.exe" />
+    <file src="C:\Users\ofirs\AppData\Roaming\POC-Platform-Engagement-Poller\AuthorizationRefreshNotifications.json" target="content\AuthorizationRefreshNotifications.json" />
+    <file src="C:\Users\ofirs\AppData\Roaming\POC-Platform-Engagement-Poller\AuthorizationRefreshNotifications.json" target="contentFiles\any\net9.0\AuthorizationRefreshNotifications.json" />
+  </files>
+</package>

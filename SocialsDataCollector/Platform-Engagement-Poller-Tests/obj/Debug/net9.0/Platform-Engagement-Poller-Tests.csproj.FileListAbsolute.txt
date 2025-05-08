@@ -1,0 +1,7 @@
+C:\Users\ofirs\source\repos\POC-Platform-Engagement-Poller\Platform-Engagement-Poller-Tests\bin\Debug\net9.0\.msCoverageSourceRootsMapping_Platform-Engagement-Poller-Tests
+C:\Users\ofirs\source\repos\POC-Platform-Engagement-Poller\Platform-Engagement-Poller-Tests\bin\Debug\net9.0\CoverletSourceRootsMapping_Platform-Engagement-Poller-Tests
+C:\Users\ofirs\source\repos\POC-Platform-Engagement-Poller\Platform-Engagement-Poller-Tests\obj\Debug\net9.0\Platform-Engagement-Poller-Tests.csproj.AssemblyReference.cache
+C:\Users\ofirs\source\repos\POC-Platform-Engagement-Poller\Platform-Engagement-Poller-Tests\obj\Debug\net9.0\Platform-Engagement-Poller-Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ofirs\source\repos\POC-Platform-Engagement-Poller\Platform-Engagement-Poller-Tests\obj\Debug\net9.0\Platform-Engagement-Poller-Tests.AssemblyInfoInputs.cache
+C:\Users\ofirs\source\repos\POC-Platform-Engagement-Poller\Platform-Engagement-Poller-Tests\obj\Debug\net9.0\Platform-Engagement-Poller-Tests.AssemblyInfo.cs
+C:\Users\ofirs\source\repos\POC-Platform-Engagement-Poller\Platform-Engagement-Poller-Tests\obj\Debug\net9.0\Platform-Engagement-Poller-Tests.csproj.CoreCompileInputs.cache

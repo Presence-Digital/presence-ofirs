@@ -1,0 +1,20 @@
+[
+  {
+    "UpdatedOn": "2025-04-08T09:26:27.6216276Z",
+    "Platform": "YouTube",
+    "Account": "notepadclips@gmail.com",
+    "ExecutableCommand": "C:\\Users\\ofirs\\source\\repos\\POC-Platform-Engagement-Poller\\POC-Platform-Engagement-Poller\\Scripts\\PlatformAuthorizationRefresh\\PlatformAuthorizationRefresh.exe --platform youtube --account notepadclips@gmail.com --chrome \"C:\\Program Files\\Google\\Chrome Beta\\Application\\chrome.exe\""
+  },
+  {
+    "UpdatedOn": "2025-04-08T09:26:29.6291696Z",
+    "Platform": "YouTube",
+    "Account": "rednblack.presence@gmail.com",
+    "ExecutableCommand": "C:\\Users\\ofirs\\source\\repos\\POC-Platform-Engagement-Poller\\POC-Platform-Engagement-Poller\\Scripts\\PlatformAuthorizationRefresh\\PlatformAuthorizationRefresh.exe --platform youtube --account rednblack.presence@gmail.com --chrome \"C:\\Program Files\\Google\\Chrome Beta\\Application\\chrome.exe\""
+  },
+  {
+    "UpdatedOn": "2025-04-08T09:26:31.4168733Z",
+    "Platform": "YouTube",
+    "Account": "gettingrich.presence@gmail.com",
+    "ExecutableCommand": "C:\\Users\\ofirs\\source\\repos\\POC-Platform-Engagement-Poller\\POC-Platform-Engagement-Poller\\Scripts\\PlatformAuthorizationRefresh\\PlatformAuthorizationRefresh.exe --platform youtube --account gettingrich.presence@gmail.com --chrome \"C:\\Program Files\\Google\\Chrome Beta\\Application\\chrome.exe\""
+  }
+]
